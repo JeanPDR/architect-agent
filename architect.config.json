@@ -1,0 +1,24 @@
+{
+  "mcpServers": {},
+  "customInstructions": {
+    "global_rules": "../architect-agent/skills/regras-gerais/SKILL.md",
+    "triggers": {
+      "/go": "../architect-agent/skills/go-expert-skills/SKILL.md",
+      "/qa": "../architect-agent/skills/qa-skills/SKILL.md",
+      "/infra": "../architect-agent/skills/terraform-skills/SKILL.md",
+      "/diagrama": "../architect-agent/skills/diagram-skills/SKILL.md",
+      "/memoria": "../architect-agent/skills/obsidian-skills/SKILL.md",
+      "/excalidraw": "../architect-agent/skills/excalidraw-skills/SKILL.md",
+      "/ts": "../architect-agent/skills/typescript-skills/SKILL.md",
+      "/gcp": "../architect-agent/skills/gcp-skills/SKILL.md",
+      "/design": "../architect-agent/skills/design-system-skills/SKILL.md",
+      "/docs": "../architect-agent/skills/project-docs/SKILL.md",
+      "/workflow": "../architect-agent/skills/workflow-skills/SKILL.md",
+      "/openapi": "../architect-agent/skills/openapi-skills/SKILL.md",
+      "/review": "../architect-agent/skills/code-review-skills/SKILL.md",
+      "/docker": "../architect-agent/skills/docker-skills/SKILL.md",
+      "/kubernetes": "../architect-agent/skills/kubernetes-skills/SKILL.md",
+      "/logs": "../architect-agent/skills/log-skills/SKILL.md"
+    }
+  }
+}
